@@ -28,3 +28,5 @@ The app allows users to:
 * *npm run dev*
 
 The application will be availabe at **http://localhost:5173/**
+
+( *Make sure to setup the backend and database aswell. Follow the instructions at* **https://github.com/vijay-ram01/MoJ_BE** )
