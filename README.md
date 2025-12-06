@@ -1,4 +1,4 @@
-# Task Manager App
+# Frontend - Task Manager
 
 A simple task management web application built using React + Vite, styled with Tailwind CSS.
 
@@ -14,8 +14,7 @@ The app allows users to:
 * React Hooks
 * axios
 
-## Installation
-
+## Installation & Setup Instructions
 **Step 1:** Clone the repository
 * *Open your terminal*
 * *git clone https://github.com/vijay-ram01/MoJ_FE.git*
